@@ -31,7 +31,7 @@ $(document).ready(function() {
 
 			if (offset.top <= (window_bottom - 500)) {
 				console.log(src + " converted to img");
-				$(this).after($('<img src="' + src + '" />'));
+				$(this).after($('<img src="' + src + '" width="' + width + '" height="' + height + '" />'));
 				$(this).remove();
 			}
 		});
