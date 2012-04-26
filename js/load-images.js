@@ -1,9 +1,11 @@
 /**
  * Load Images WYNI
  *
- * @version 	1.0
+ * @version 	0.9
  * @author 		Keegan Berry
  * @since		04/26/12
+ *
+ * @source		https://github.com/keeeeeegan/Image-Loading-When-You-Need-It
  *
  */
 
